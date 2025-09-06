@@ -1,0 +1,1 @@
+print("pec madarchod hai")

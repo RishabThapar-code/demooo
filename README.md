@@ -1,4 +1,4 @@
 # demooo
 first github reppository
 <br>
-Author - Rishab Thapar
+Author - Rishab Thapar(good insaan)
