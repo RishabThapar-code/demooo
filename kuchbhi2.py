@@ -1,0 +1,1 @@
+print("duniya madarchod hai")
