@@ -1,1 +1,1 @@
-print("pec madarchod hai")
+print("pec bhaut madarchod hai")
